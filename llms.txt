@@ -1,0 +1,28 @@
+# Zaigham Abbas
+
+> Zaigham Abbas is a Data Scientist and BS Data Science graduate from the University of Okara, Pakistan (CGPA 3.59 / 4.00). He builds machine learning and deep learning models in Python and SQL, and is open to full-time Data Science roles and internships.
+
+## About
+- Role: Data Scientist (graduate, open to work)
+- Education: BS Data Science, University of Okara (November 2021 to October 2025)
+- Languages spoken: Urdu, English, Punjabi, Chinese (limited)
+- Skills: Python, SQL, C++, Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, PyTorch, OpenCV, Matplotlib, Seaborn, Power BI, Tableau, Jupyter, Google Colab, Kaggle, Git/GitHub
+
+## Experience
+- Data Science & Analytics Intern, Developers Hub Corporation (February to March 2026)
+- Data Science Intern, Afynix Digital (February to March 2026)
+- Frontend Web Developer, Techificent (July to October 2024)
+
+## Projects (source code on GitHub)
+- [Skin Cancer Detection](https://github.com/Zaighamabbas1234/Skin-Cancer-using-Machine-Learning-and-Deep-Learning): Machine Learning and Deep Learning models for early skin cancer detection on dermoscopic images
+- [True & Fake News Detection](https://github.com/Zaighamabbas1234/True-and-Fake-News-using-Sequential-Models): sequential NLP model that classifies news articles as real or fake
+- [Heart Disease Detection](https://github.com/Zaighamabbas1234/Heart-Disease-Detection-using-Machine-Learning-and-Deep-Learning): predictive models for heart-disease risk
+- [Image Recognition](https://github.com/Zaighamabbas1234/Image-Recognition-using-CNN-Convolutional-Neural-Network-Model): CNN-based image classifier
+- [Credit Risk & Loan Acceptance](https://github.com/Zaighamabbas1234/Credit-Risk-Prediction): classification models for credit risk and loan acceptance
+- [Customer Churn Prediction](https://github.com/Zaighamabbas1234/Customer-Churn-Prediction-Bank-Customers): machine learning models that predict bank customer churn
+
+## Links
+- [Portfolio](https://zaighamabbas1234.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/zaigham-abbas-181354242)
+- [GitHub](https://github.com/Zaighamabbas1234)
+- Email: zaighamabbasprince@gmail.com
